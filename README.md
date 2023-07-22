@@ -13,7 +13,7 @@
 <h2> Punto 4: Nombre y apellido del usuario</h2>
 <img src="./public/images/punto 4.png" alt="Punto 4">
 <h2> Punto 5: Calculo de pago en Bolera con IF</h2>
-
+<img src="./public/images/punto 4.png">
 <h2> Punto 6: Usuario mayor o menor de edad</h2>
 
 <h2> Punto 7: Operaciones básicas entre 2 números</h2>
